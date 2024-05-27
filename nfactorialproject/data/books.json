@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": ["Amazing book!", "A timeless classic."]
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": ["Very moving.", "A must-read."]
+  }
+]
